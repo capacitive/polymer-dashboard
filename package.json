@@ -1,0 +1,14 @@
+{
+  "name": "polymer-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-local/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Cafazzo",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "polymer-dashboard",
+  "description": "",
+  "main": "server-local/server.js",
+  "authors": [
+    "Mark Cafazzo"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "polymer": "~1.3.0"
+  }
+}
